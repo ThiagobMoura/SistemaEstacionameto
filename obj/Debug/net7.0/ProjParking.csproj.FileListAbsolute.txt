@@ -1,0 +1,15 @@
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\obj\Debug\net7.0\ProjParking.csproj.AssemblyReference.cache
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\obj\Debug\net7.0\ProjParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\obj\Debug\net7.0\ProjParking.AssemblyInfoInputs.cache
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\obj\Debug\net7.0\ProjParking.AssemblyInfo.cs
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\obj\Debug\net7.0\ProjParking.csproj.CoreCompileInputs.cache
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\bin\Debug\net7.0\ProjParking.exe
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\bin\Debug\net7.0\ProjParking.deps.json
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\bin\Debug\net7.0\ProjParking.runtimeconfig.json
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\bin\Debug\net7.0\ProjParking.dll
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\bin\Debug\net7.0\ProjParking.pdb
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\obj\Debug\net7.0\ProjParking.dll
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\obj\Debug\net7.0\refint\ProjParking.dll
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\obj\Debug\net7.0\ProjParking.pdb
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\obj\Debug\net7.0\ProjParking.genruntimeconfig.cache
+C:\Users\thbmo\OneDrive\Documentos\GitHub\ProjetosEstudos\ProjParking\obj\Debug\net7.0\ref\ProjParking.dll
